@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tags-crisped-sithu-KoTAG
+/src/backend/database.py      @tags-crisped-sithu-KoTAG
+/src/backend/routers/auth.py  @tags-crisped-sithu-KoTAG
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tags-crisped-sithu-KoTAG
